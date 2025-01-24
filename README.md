@@ -1,5 +1,3 @@
-# README
-
 # Hi, I'm Marco Amador! 👋
 
 Welcome to my GitHub profile! I'm a **Junior Software Engineer** specializing in **cloud-native development**, **serverless technologies**, and **full-stack solutions**. With experience in building enterprise-level applications, I thrive on creating scalable, impactful projects that drive results. 
