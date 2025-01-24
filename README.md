@@ -30,12 +30,6 @@ Welcome to my GitHub profile! I'm a **Junior Software Engineer** specializing in
 
 ---
 
-## 📄 Resume
-
-[Download My Resume](https://github.com/marcoamador214/resume.pd)
-
----
-
 ## 📬 Let's Connect
 
 - **Email:** [marcoamador214@gmail.com](mailto:marcoamador214@gmail.com)
