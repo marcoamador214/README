@@ -1,13 +1,13 @@
 # Hi, I'm Marco Amador! 👋
 
-Welcome to my GitHub profile! I'm a **Junior Software Engineer** specializing in **cloud-native development**, **serverless technologies**, and **full-stack solutions**. With experience in building enterprise-level applications, I thrive on creating scalable, impactful projects that drive results. 
+Welcome to my GitHub profile! I'm a **Technical professional** specializing in **cloud-native development**, **serverless technologies**, and **full-stack solutions**. With experience in building enterprise-level applications, I thrive on creating scalable, impactful projects that drive results. 
 
 ---
 
 ## 🚀 About Me
 
 - **🌟 Core Skills:** Python, TypeScript, React, SQL, AWS (S3, Lambda, EC2), Docker, Kubernetes, CI/CD Pipelines
-- **🎓 Education:** B.A. in Business Management Economics, University of California, Santa Cruz (Dec. 2021)
+- **🎓 Education:** M.S. in Information Systems, California State University, Long Beach (Exp. May 2027) || B.A. in Business Management Economics, University of California, Santa Cruz (Dec. 2021)
 - **📄 Certification:** AWS Certified Cloud Practitioner (In Progress, Exp. Jan 2025)
 - **🌐 Languages:** English, Spanish
 
