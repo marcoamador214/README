@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a **technical professional** specializing in *
 
 - **🌟 Core Skills:** Python, TypeScript, React, SQL, AWS (S3, Lambda, EC2), Docker, Kubernetes, CI/CD Pipelines
 - **🎓 Education:** M.S. in Information Systems, California State University, Long Beach (Exp. May 2027) || B.A. in Business Management Economics, University of California, Santa Cruz (Dec. 2021)
-- **📄 Certification:** AWS Certified Cloud Practitioner (In Progress, Exp. Jan 2025)
+- **📄 Certification:** AWS Certified Cloud Practitioner (CLF-C02)
 - **🌐 Languages:** English, Spanish
 
 ---
