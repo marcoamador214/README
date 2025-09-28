@@ -1,32 +1,15 @@
 # Hi, I'm Marco Amador! 👋
 
-Welcome to my GitHub profile! I'm a **technical professional** specializing in **cloud-native development**, **serverless technologies**, and **full-stack solutions**. With experience in building enterprise-level applications, I thrive on creating scalable, impactful projects that drive results. 
+Welcome to my GitHub profile! I'm a **technical professional** specializing in **data analytics**, **cloud-native development**, **serverless technologies**, and **full-stack solutions**. With experience in building enterprise-level applications, I thrive on creating scalable, impactful projects that drive results. 
 
 ---
 
 ## 🚀 About Me
 
-- **🌟 Core Skills:** Python, TypeScript, React, SQL, AWS (S3, Lambda, EC2), Docker, Kubernetes, CI/CD Pipelines
+- **🌟 Core Skills:** Python, SQL, AWS, Tableau, Excel, Alteryx, CI/CD Pipelines
 - **🎓 Education:** M.S. in Information Systems, California State University, Long Beach (Exp. May 2027) || B.A. in Business Management Economics, University of California, Santa Cruz (Dec. 2021)
 - **📄 Certification:** AWS Certified Cloud Practitioner (CLF-C02)
 - **🌐 Languages:** English, Spanish
-
----
-
-## 🔧 What I Do
-
-### Cloud Development 🌩️
-- Built and deployed serverless architectures leveraging AWS Lambda, S3, and API Gateway.
-- Migrated Kubernetes-based services to serverless platforms, reducing costs by 6%.
-
-### Full-Stack Engineering 💻
-- Developed dynamic, user-friendly interfaces with **React** and robust backends using **Python**.
-- Collaborated cross-functionally to deliver scalable applications driving millions in revenue.
-
-### Continuous Integration & Deployment 🔄
-- Designed CI/CD pipelines to ensure seamless code integration, testing, and deployment.
-
----
 
 ## 📬 Let's Connect
 
